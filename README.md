@@ -16,7 +16,8 @@ View the "Today" theme in action in the [TM Theme Editor](http://tmtheme-editor.
 ### Blue Thunder
 A tribute to Dayle Rees's BlueDawn themed
 
-![Blue Thunder](https://raw.github.com/cschubiner/Sublime-Text-2-Color-Schemes/master/screenshots/bluethunder-retina.png)
+<img src="https://raw.github.com/cschubiner/Sublime-Text-2-Color-Schemes/master/screenshots/bluethunder-retina.png" width="600">
+
 
 View "Blue Thunder" in action in the [TM Theme Editor](http://tmtheme-editor.herokuapp.com/#/Blue%20Thunder).
 
